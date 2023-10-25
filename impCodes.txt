@@ -1,0 +1,40 @@
+@keyframes change{
+    0%{
+        background-image: url('img/Reasons-to-settle-down-in-Pune-1400x700.png');
+    }
+    10%{
+        background-image: url('img/anand-dhumal-stfokPzxn-M-unsplash.jpg');
+    }
+    20%{
+        background-image: url('img/img3.jpg');
+    }
+    30%{
+        background-image: url('img/Magarpatta-City-6.jpg');
+    }
+    40%{
+        background-image: url('img/img13.jpg');
+    }
+    50%{
+        background-image: url('img/5acf79b5465fd.jpg');
+    }
+    60%{
+        background-image: url('img/nandedcity1.png');
+    }
+    70%{
+        background-image: url('img/Corporate\ Office\ Completion_5LR.jpg');
+    }
+    80%{
+        background-image: url('img/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvNDcyNzkyMTkvZTFiODRjYzljZTdjOWMzMjQ4YWY1YjE4ODBhZGQ0MzEuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ.jpg');
+    }
+    90%{
+        background-image: url('img/7.png');
+    }
+    100%
+    {
+        background-image:url('img/baner-hill-cropped-1522148750-cropped-1-1560514408.jpg')
+
+    }
+
+
+
+background-image: url('img/Reasons-to-settle-down-in-Pune-1400x700.png');
